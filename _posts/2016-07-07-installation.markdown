@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Installation"
+title:  "Projects"
 categories: jekyll update
 img: lost-1.jpg
 categories: one
 ---
 
-Find the repository here: [Bheema](https://github.com/sharu725/bheema)
+Find my github repository here: [github](https://github.com/shivankmishra)
 
-A [detailed guide](https://github.com/sharu725/bheema#installation) is in the README file.
