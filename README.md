@@ -1,4 +1,4 @@
-Demo: [http://webjeda.com/bheema](http://webjeda.com/bheema)
+Demo: [http://shivankmishra.com/bheema](http://shivankmishra.com/bheema)
 
 ## Installation
 * Fork the repository

@@ -6,7 +6,7 @@ img: lost-7.jpg
 
 Bheema is a theme suitabel for image heavy journal kind of websites. 
 
-Demo: [http://webjeda.com/bheema/](http://webjeda.com/bheema/)
+Demo: [http://shivankmishra.com/bheema/](http://shivankmishra.com/bheema/)
 
 
 # Installation: 
