@@ -69,11 +69,11 @@ Also, if you are willing to add it yourself then feel free to open a pull reques
             <input class="button" type="submit" value="Send" id="submit"/>
         </ul>
         
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="http://github.com/shivankmishra" />
         
 </form>
 
 Just update the ``email:`` in config.yml to make this form work.
 
 
-[Add a contact form](https://blog.webjeda.com/jekyll-contact-form/)
+[Add a contact form](https://shivankmishra.com)
