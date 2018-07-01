@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Research"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: lost-2.jpg
