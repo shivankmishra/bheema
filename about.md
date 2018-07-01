@@ -5,10 +5,11 @@ permalink: /about/
 img: bheema-2.PNG
 ---
 
-Shivank is graduate student of Information Science at UIUC. He is aspiring to be a Deep Learning Engineer.
+Hi! I am Shivank and I am aspiring to be a Deep Learning Engineer.
 
-His research interests are in Computer Vision, Reinforcement Learning, NLP, Data Compression
+My research interests are in Computer Vision, Reinforcement Learning, NLP, Data Compression.
 
+I like to play fútbol, and workout when I can. I also like to learn flamenco style guitar. 
 
 <iframe class="video" src="https://www.youtube.com/watch?v=vT1JzLTH4G4&t=11s" frameborder="0" allowfullscreen></iframe>
 
