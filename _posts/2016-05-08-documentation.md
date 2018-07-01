@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documentation
+title: Mathematics
 img: lost-7.jpg
 ---
 
